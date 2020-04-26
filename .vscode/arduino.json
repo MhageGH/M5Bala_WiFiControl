@@ -1,7 +1,0 @@
-{
-    "board": "espressif:esp32:m5stack-fire",
-    "configuration": "PSRAM=enabled,PartitionScheme=default,UploadSpeed=921600,DebugLevel=none",
-    "port": "COM13",
-    "output": "../ArduinoOutput",
-    "sketch": "M5Bala_WiFiControl.ino"
-}
